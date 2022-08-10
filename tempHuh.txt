@@ -1,2 +1,2 @@
--- 원격에서 수정되었습니다 --
+-- 원격에서 수정되었습니다!! --
 This is temporary test file.
